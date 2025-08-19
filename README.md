@@ -9,25 +9,27 @@ It contains notes, examples, Dockerfiles, and mini-projects that I can revisit a
 
 ```text
 docker-data-engineering-notes/
-├── README.md                 # Main introduction (this file)
-├── concepts/                 # Core concepts and theory
+├── README.md                   # Main introduction (this file)
+├── concepts/                   # Core concepts and theory
 │   ├── docker_basics.md
 │   ├── podman_basics.md
 │   ├── docker_vs_podman.md
 │   └── cheatsheet.md
-├── dockerfiles/              # Example Dockerfiles
+├── dockerfiles/                # Example Dockerfiles
+│   ├── Dockerfile_Guide.md
 │   ├── python_app/
 │   ├── postgres/
 │   └── airflow/
-├── compose-examples/         # Docker Compose examples
+├── compose-examples/           # Docker Compose examples
+|   ├── DockerCompose_Guide.md
 │   ├── postgres.yml
 │   ├── airflow.yml
 │   └── kafka_spark.yml
-├── mini-projects/            # Hands-on projects for practice
+├── mini-projects/              # Hands-on projects for practice
 │   ├── 01_docker_postgres/
 │   ├── 02_docker_airflow/
 │   └── 03_kafka_pipeline/
-└── notes/                    # Extra notes and troubleshooting
+└── notes/                      # Extra notes and troubleshooting
     ├── networking.md
     ├── volumes.md
     ├── security.md
