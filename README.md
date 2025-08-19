@@ -1,4 +1,4 @@
-# 🚀 Docker & Podman for Data Engineering
+# Docker & Podman for Data Engineering
 
 This repository is my personal knowledge base and practice space for learning **Docker** and **Podman** with a focus on **data engineering use cases**.  
 It contains notes, examples, Dockerfiles, and mini-projects that I can revisit anytime.
@@ -98,4 +98,5 @@ docker-data-engineering-notes/
 ------
 
 ✍️ *This repo is a living document. I’ll keep updating it as I learn more about Docker, Podman, and data engineering workflows.*
+
 
